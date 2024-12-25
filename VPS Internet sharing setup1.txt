@@ -1,0 +1,5 @@
+https://3.126.245.3:943/admin
+https://3.126.245.3:943/
+
+Username: openvpn
+Password:	G.k147258369
