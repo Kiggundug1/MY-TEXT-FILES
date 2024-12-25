@@ -1,0 +1,27 @@
+Public IP Address:  16.171.139.30
+AMI Location:       amazon/Windows_Server-2025-English-Full-Base-2024.11.19
+Subnet ID:          subnet-0b2bc43aad6742bd8
+Private IP DNS Name:    ip-172-31-36-34.eu-north-1.compute.internal
+Private IPV4 Address:   172.31.36.34
+Public IPV4 DNS:        ec2-16-171-139-30.eu-north-1.compute.amazonaws.com
+Public DNS:             ec2-16-171-139-30.eu-north-1.compute.amazonaws.com
+
+Google Account Password By Mr. Taufiq 12@#34ty
+
+
+
+
+
+AMAZON_VPS1
+Instance ID:                        i-0938c3e8fa9707c58
+Auto-assigned IP address            3.68.232.137
+Public IPv4 address                 3.68.232.137
+Private IP DNS name (IPv4 only)     ip-172-31-12-157.eu-central-1.compute.internal
+VPC ID                              vpc-09c873dbbbdfb1491
+Private IPv4 addresses:             172.31.12.157
+Public IPv4 DNS                     ec2-3-68-232-137.eu-central-1.compute.amazonaws.com
+subnet-007effebe9782acc1
+PUBLIC DNS                          ec2-3-68-232-137.eu-central-1.compute.amazonaws.com
+Username                            Administrator
+Pasword                             Ws&iwf=yvC2Fkdvrr?V(cLcnqBF-OEK1
+
